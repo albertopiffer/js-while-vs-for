@@ -1,3 +1,7 @@
+//creo un array list e un altro array ordList in cui andrò a mettere glie elementi del primo in disordine
+//genero un numero random < list.lenght e inserisco l'elemento [rand] del primo array nel secondo
+//rimuovo l'elemento dal primo array e ripeto l'operazione fino a svuotare list
+
 let list = []
 let ordList = []
 
